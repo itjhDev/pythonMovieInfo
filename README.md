@@ -5,6 +5,7 @@
 <font color="red">此项目仅供学习</font>
 
 > Python2.7
+> 
 > Mac OS
 
 抓取的是电影天堂里面最新电影的页面。链接地址：`http://www.dytt8.net/html/gndy/dyzz/index.html`
